@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/sanan/Desktop/Projects/Compar Academy/K401/ShopMicroservice/Services/UploadService/UploadService.Api/wwwroot/uploads/89335252-e664-4b75-8ca3-5eb491872343_loader.gif",
+      "PackagePath": "staticwebassets/uploads/89335252-e664-4b75-8ca3-5eb491872343_loader.gif"
+    },
+    {
+      "Id": "/Users/sanan/Desktop/Projects/Compar Academy/K401/ShopMicroservice/Services/UploadService/UploadService.Api/wwwroot/uploads/c905b3a0-bce6-4235-8c56-d3b0db454adf_NET-Microservices-Architecture-for-Containerized-NET-Applications (1).pdf",
+      "PackagePath": "staticwebassets/uploads/c905b3a0-bce6-4235-8c56-d3b0db454adf_NET-Microservices-Architecture-for-Containerized-NET-Applications (1).pdf"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.UploadService.Api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.UploadService.Api.props",
+      "PackagePath": "build\\UploadService.Api.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.UploadService.Api.props",
+      "PackagePath": "buildMultiTargeting\\UploadService.Api.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.UploadService.Api.props",
+      "PackagePath": "buildTransitive\\UploadService.Api.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

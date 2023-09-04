@@ -1,0 +1,71 @@
+﻿<Properties StartupConfiguration="Multiple Projects">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/sanan/Desktop/Projects/Compar Academy/K401/ShopMicroservice/Services/IdentityService/IdentityService.Api/Controllers/UserController.cs" relfile="Services/IdentityService/IdentityService.Api/Controllers/UserController.cs" line="100" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.ApiGateways.ApiGateway.Api PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.ItemProperties.Services.UploadService.UploadService.Api PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Services/IdentityService/IdentityService.Api/Controllers/UserController.cs">
+    <Files>
+      <File FileName="Services/OrderService/OrderService.Api/Program.cs" />
+      <File FileName="Shared/EventBus/Events/UserInfoChangeEvent.cs" />
+      <File FileName="Services/OrderService/OrderService.Api/Consumers/UpdateUserInfoConsumer.cs" />
+      <File FileName="Services/OrderService/OrderService.Api/Repositories/Abstract/IOrderRepository.cs" Line="13" Column="15" />
+      <File FileName="Services/IdentityService/IdentityService.Api/Program.cs" Line="43" Column="1" />
+      <File FileName="Services/IdentityService/IdentityService.Api/Controllers/UserController.cs" Line="63" Column="24" />
+      <File FileName="Shared/ShopApp.Core/Entities/Concrete/User.cs" Line="4" Column="15" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ShopMicroservice" expanded="True">
+            <Node name="Services" expanded="True">
+              <Node name="IdentityService" expanded="True">
+                <Node name="IdentityService.Api">
+                  <Node name="Controllers" expanded="True">
+                    <Node name="UserController.cs" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="OrderService" expanded="True">
+                <Node name="OrderService.Api" expanded="True">
+                  <Node name="Repositories" expanded="True">
+                    <Node name="Abstract" expanded="True" />
+                    <Node name="Concrete" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+            <Node name="Shared" expanded="True">
+              <Node name="K123ShopApp.Core" expanded="True">
+                <Node name="Entities" expanded="True">
+                  <Node name="Concrete" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Services.CatalogService.CatalogService.Api PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.ItemProperties.Clients.Shop.WebUI PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Services.IdentityService.IdentityService.Api PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.ItemProperties.Services.OrderService.OrderService.Api PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations>
+    <MultiItemSolutionRunConfiguration Id="Multiple Projects" Name="Multiple Projects">
+      <Items>
+        <StartupItem ItemId="{7CD0B710-5486-45A7-B6BF-203B983A4A32}" ItemName="ApiGateway.Api" ConfigurationId="https" />
+        <StartupItem ItemId="{2CC7BD3A-9354-418C-9B2C-43AE3F4C1BFD}" ItemName="BasketService.Api" ConfigurationId="https" />
+        <StartupItem ItemId="{0C2703B8-8532-4F09-9B17-F6AF4A4223CE}" ItemName="CatalogService.Api" ConfigurationId="https" />
+        <StartupItem ItemId="{49B56585-A87D-4F84-A7AE-4A8156C71E5D}" ItemName="IdentityService.Api" ConfigurationId="https" />
+        <StartupItem ItemId="{CB7E019C-DC2F-4AD7-9F07-C018B1F19D50}" ItemName="OrderService.Api" ConfigurationId="https" />
+        <StartupItem ItemId="{B228003D-A9E2-46DD-A489-CC179FC0BA1B}" ItemName="UploadService.Api" ConfigurationId="https" />
+      </Items>
+    </MultiItemSolutionRunConfiguration>
+  </MultiItemStartupConfigurations>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Services.BasketService.BasketService.Api PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>

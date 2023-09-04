@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "hl16HZhbIN7hdOyPIYz7pXMhwBitomSoOPjKFxRs1GY=",
+  "Source": "UploadService.Api",
+  "BasePath": "_content/UploadService.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "UploadService.Api/wwwroot",
+      "Source": "UploadService.Api",
+      "ContentRoot": "/Users/sanan/Desktop/Projects/Compar Academy/K401/ShopMicroservice/Services/UploadService/UploadService.Api/wwwroot/",
+      "BasePath": "_content/UploadService.Api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/sanan/Desktop/Projects/Compar Academy/K401/ShopMicroservice/Services/UploadService/UploadService.Api/wwwroot/uploads/89335252-e664-4b75-8ca3-5eb491872343_loader.gif",
+      "SourceId": "UploadService.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/sanan/Desktop/Projects/Compar Academy/K401/ShopMicroservice/Services/UploadService/UploadService.Api/wwwroot/",
+      "BasePath": "_content/UploadService.Api",
+      "RelativePath": "uploads/89335252-e664-4b75-8ca3-5eb491872343_loader.gif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/uploads/89335252-e664-4b75-8ca3-5eb491872343_loader.gif"
+    },
+    {
+      "Identity": "/Users/sanan/Desktop/Projects/Compar Academy/K401/ShopMicroservice/Services/UploadService/UploadService.Api/wwwroot/uploads/c905b3a0-bce6-4235-8c56-d3b0db454adf_NET-Microservices-Architecture-for-Containerized-NET-Applications (1).pdf",
+      "SourceId": "UploadService.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/sanan/Desktop/Projects/Compar Academy/K401/ShopMicroservice/Services/UploadService/UploadService.Api/wwwroot/",
+      "BasePath": "_content/UploadService.Api",
+      "RelativePath": "uploads/c905b3a0-bce6-4235-8c56-d3b0db454adf_NET-Microservices-Architecture-for-Containerized-NET-Applications (1).pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/uploads/c905b3a0-bce6-4235-8c56-d3b0db454adf_NET-Microservices-Architecture-for-Containerized-NET-Applications (1).pdf"
+    }
+  ]
+}

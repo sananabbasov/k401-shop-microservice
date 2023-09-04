@@ -1,0 +1,12 @@
+/Users/sanan/Desktop/Projects/Compar Academy/K401/ShopMicroservice/Shared/EventBus/bin/Debug/net7.0/EventBus.deps.json
+/Users/sanan/Desktop/Projects/Compar Academy/K401/ShopMicroservice/Shared/EventBus/bin/Debug/net7.0/EventBus.dll
+/Users/sanan/Desktop/Projects/Compar Academy/K401/ShopMicroservice/Shared/EventBus/bin/Debug/net7.0/EventBus.pdb
+/Users/sanan/Desktop/Projects/Compar Academy/K401/ShopMicroservice/Shared/EventBus/obj/Debug/net7.0/EventBus.csproj.AssemblyReference.cache
+/Users/sanan/Desktop/Projects/Compar Academy/K401/ShopMicroservice/Shared/EventBus/obj/Debug/net7.0/EventBus.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sanan/Desktop/Projects/Compar Academy/K401/ShopMicroservice/Shared/EventBus/obj/Debug/net7.0/EventBus.AssemblyInfoInputs.cache
+/Users/sanan/Desktop/Projects/Compar Academy/K401/ShopMicroservice/Shared/EventBus/obj/Debug/net7.0/EventBus.AssemblyInfo.cs
+/Users/sanan/Desktop/Projects/Compar Academy/K401/ShopMicroservice/Shared/EventBus/obj/Debug/net7.0/EventBus.csproj.CoreCompileInputs.cache
+/Users/sanan/Desktop/Projects/Compar Academy/K401/ShopMicroservice/Shared/EventBus/obj/Debug/net7.0/EventBus.dll
+/Users/sanan/Desktop/Projects/Compar Academy/K401/ShopMicroservice/Shared/EventBus/obj/Debug/net7.0/refint/EventBus.dll
+/Users/sanan/Desktop/Projects/Compar Academy/K401/ShopMicroservice/Shared/EventBus/obj/Debug/net7.0/EventBus.pdb
+/Users/sanan/Desktop/Projects/Compar Academy/K401/ShopMicroservice/Shared/EventBus/obj/Debug/net7.0/ref/EventBus.dll
